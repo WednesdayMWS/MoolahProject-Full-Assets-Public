@@ -8,3 +8,4 @@ Master Materials and Material Instances, as well as Sound Cues and a bunch of ot
 Current Issues:
 1. Cannot generate animation sequences or animation blueprints
 2. Cannot generate Physical Material or the blueprints they are tied to.
+3. Do not open currently generated blueprints as of now. They will crash the project
