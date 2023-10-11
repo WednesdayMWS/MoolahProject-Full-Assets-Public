@@ -10,3 +10,4 @@ Current Issues:
 2. Cannot generate Physical Material or the blueprints they are tied to.
 3. I cannot guarantee the generated blueprints will look correct or not crash your uproject.
 but some should work :)
+4. There are now widget blueprints but much like regular BPs, don't expect all to work.
